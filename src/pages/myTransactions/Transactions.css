@@ -1,0 +1,9 @@
+.transactions-container {
+  height: 550px; 
+  overflow: auto;
+}
+
+.pagination-container {
+  position: sticky;
+  bottom: 0;
+}
